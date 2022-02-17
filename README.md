@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🌱 I’m currently learning Data Structures and MERN Stack.
 - 💬 Ask me about anything, I am happy to help;
-- 👨‍💻 Check my projects **https://github.com/Sarfaraz0730?tab=repositories**
+- 👨‍💻 Check my projects **[Sarfaraz](https://github.com/Sarfaraz0730?tab=repositories)**
 - 📫 How to reach me **sarfaraz22072000@gmail.com**
 - ⚡ Fun fact: I have coded "Hello World!" in almost Every programming languages
 
