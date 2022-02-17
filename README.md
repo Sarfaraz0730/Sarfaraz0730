@@ -48,8 +48,8 @@ A Full Stack Web Developer based in India. A creative coder who specializes in M
 
 <p>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=	Sarfaraz0730&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb"> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarfaraz0730&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	 -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarfaraz0730&theme=dracula"> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarfaraz0730&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarfaraz0730&theme=dracula">
 </p>
 
 
