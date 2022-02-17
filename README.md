@@ -1,6 +1,11 @@
-<h1>Hey, I'm Sarfaraz</h1>
-
-
+<h2 align="center">
+    <abc>
+     <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+     <br> I'm Sarfaraz, Full Stack Web Developer<br>
+     <br>
+       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="500">
+    </abc>
+   </h2> 
 
 <!-- **sarfaraz0730/sarfaraz0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
@@ -57,3 +62,15 @@ A Full Stack Web Developer based in India. A creative coder who specializes in M
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarfaraz0730&show_icons=true&locale=en" alt="Sarfaraz0730" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarfaraz0730&" alt="Sarfaraz0730" /></p>
 
+<a href="https://github.com/Sarfaraz0730/github-readme-activity-graph"><img alt="Sarfaraz0730's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarfaraz0730&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sarfaraz0730">
+</a>
+<a href="https://github.com/Sarfaraz0730?tab=followers"><img src="https://img.shields.io/github/followers/Sarfaraz0730?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
