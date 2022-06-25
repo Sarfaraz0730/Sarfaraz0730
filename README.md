@@ -46,7 +46,7 @@ A Full Stack Web Developer based in India. A creative coder who specializes in M
 ### :heavy_minus_sign: Where to find me?
 <p> <a href="https://www.linkedin.com/in/sarfaraz-sheikh-5622561a7/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <!-- <a href="https://medium.com/@taherahmed.sj.95" target="_blank"> -->
+    <!-- <a href="" target="_blank"> -->
 <!--         
         <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> -->
     </a>
