@@ -55,14 +55,14 @@ A Full Stack Web Developer based in India. A creative coder who specializes in M
 ### :heavy_minus_sign: My Github stats
 <p>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarfaraz0730&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarfaraz0730&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarfaraz0730&theme=dracula">
-</p> -->
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarfaraz0730&show_icons=true&locale=en&layout=compact" alt="Sarfaraz0730" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarfaraz0730&show_icons=true&locale=en" alt="Sarfaraz0730" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarfaraz0730&" alt="Sarfaraz0730" /></p>
 
-<a href="https://github.com/Sarfaraz0730/github-readme-activity-graph"><img alt="Sarfaraz0730's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarfaraz0730&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Sarfaraz0730/github-readme-activity-graph"><img alt="Sarfaraz0730's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarfaraz0730&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 
 
