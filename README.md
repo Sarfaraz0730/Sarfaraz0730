@@ -46,9 +46,7 @@ A Full Stack Web Developer based in India. A creative coder who specializes in M
 ### :heavy_minus_sign: Where to find me?
 <p> <a href="https://www.linkedin.com/in/sarfaraz-sheikh-5622561a7/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <!-- <a href="" target="_blank"> -->
-<!--         
-        <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> -->
+
     </a>
 </p>
 
@@ -62,7 +60,7 @@ A Full Stack Web Developer based in India. A creative coder who specializes in M
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarfaraz0730&show_icons=true&locale=en" alt="Sarfaraz0730" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarfaraz0730&" alt="Sarfaraz0730" /></p>
 
-<!-- <a href="https://github.com/Sarfaraz0730/github-readme-activity-graph"><img alt="Sarfaraz0730's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarfaraz0730&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
 
 
 
@@ -72,5 +70,3 @@ A Full Stack Web Developer based in India. A creative coder who specializes in M
 </a>
 <a href="https://github.com/Sarfaraz0730?tab=followers"><img src="https://img.shields.io/github/followers/Sarfaraz0730?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<!-- 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"> -->
