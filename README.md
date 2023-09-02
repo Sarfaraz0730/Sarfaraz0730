@@ -1,3 +1,4 @@
+![logo](https://github.com/Sarfaraz0730/Sarfaraz0730/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sarfaraz</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
